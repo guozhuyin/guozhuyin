@@ -42,7 +42,7 @@
 <br/>
 
 <div align="center">
-<img align="right" alt="visitcount" src="https://visitcount.itsvg.in/api?id=GuoZhuyin&icon=0&color=2">
+<a href="https://visitcount.itsvg.in" target="_blank" rel="noreferrer"> <img align="right" src="https://visitcount.itsvg.in/api?id=GuoZhuyin&icon=0&color=2" alt="visitcount" /> </a>
 
 ---
 </div>
