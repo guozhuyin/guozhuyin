@@ -12,7 +12,7 @@
 <a href="https://fb.com/100000318623573" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100000318623573" height="40" width="40" style="margin: 3px"/></a>
 <a href="https://instagram.com/zhuyin_010714" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zhuyin_010714" height="40" width="40" style="margin: 3px"/></a>
 <a href="http://zhuyin.epizy.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="40" style="margin: 3px"/></a>
-<a href="mailto:zhuyin124.work@aol.com"><img src="https://www.svgrepo.com/show/513836/mail.svg" alt="mail" height="40" style="margin: 3px"/></a>
+<a href="mailto:zhuyin124.work@aol.com"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Mail_fluent_Icon.svg" alt="mail" height="40" style="margin: 3px"/></a>
 
 </div>
 <br/>
@@ -37,7 +37,7 @@
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="50" style="margin: 3px"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="visualstudiocode" height="50" style="margin: 3px"/> </a>
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 3px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" height="50" /></a>
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" height="50" style="margin: 3px"/> </a>
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" height="50" style="margin: 3px"/> </a>
 </div>
 <br/>
 
