@@ -1,40 +1,59 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+# 💫 About Me
 
-# 💫 About Me:
+<div align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FAA356&width=435&lines=Hi!+I'm+Kuo%2CChih-En+from+Taiwan.;+My+nickname+is+GuoZhuyin.;I+am+studying+at+Asia+University." alt="Typing SVG"></a>
+</div>
+<br/>
 
+## 🌐 Socials
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100000318623573) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zhuyin_010714/) 
+<div align = "center">
+<a href="https://fb.com/100000318623573" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100000318623573" height="40" width="40" style="margin: 3px"/></a>
+<a href="https://instagram.com/zhuyin_010714" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zhuyin_010714" height="40" width="40" style="margin: 3px"/></a>
+<a href="http://zhuyin.epizy.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="40" style="margin: 3px"/></a>
+<a href="mailto:zhuyin124.work@aol.com"><img src="https://www.svgrepo.com/show/513836/mail.svg" alt="mail" height="40" style="margin: 3px"/></a>
 
-# 💻 My Skill Set:
+</div>
+<br/>
 
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-</div>  
+# 💻 My Skill Set
 
-<br/>  
+<div align="center">
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" height="50" style="margin: 3px"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="50" style="margin: 3px"/> </a>
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height="50" style="margin: 3px"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="50" style="margin: 3px"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50" style="margin: 3px"/> </a>
+<a href="https://www.java.com" target="_blank"><img style="margin: 3px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="50" /></a>
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 3px" src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="50" /></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="50" style="margin: 3px"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50" style="margin: 3px"/> </a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img style="margin: 3px" src="https://skillicons.dev/icons?i=ps" alt="Photoshop" height="50" /></a>
+<a href="https://www.php.net/" target="_blank"><img style="margin: 3px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://www.adobe.com/products/premiere.html" target="_blank"><img style="margin: 3px" src="https://skillicons.dev/icons?i=pr" alt="Premiere Pro" height="50" /></a>  
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="50" style="margin: 3px"/> </a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="50" style="margin: 3px"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="visualstudiocode" height="50" style="margin: 3px"/> </a>
+<a href="https://wordpress.com/" target="_blank"><img style="margin: 3px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" height="50" /></a>
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" height="50" style="margin: 3px"/> </a>
+</div>
+<br/>
 
-# 📊 GitHub Stats:
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GuoZhuyin&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuoZhuyin&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=donut"><div align="center"><br/>
+<img align="right" alt="visitcount" src="https://visitcount.itsvg.in/api?id=GuoZhuyin&icon=0&color=2">
 
 ---
-<!-- [![](https://visitcount.itsvg.in/api?id=GuoZhuyin&icon=0&color=0)](https://visitcount.itsvg.in) -->
+
+# 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=GuoZhuyin&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="200">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuoZhuyin&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=donut" height="200">
+<div align="center">
+<br/>
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
