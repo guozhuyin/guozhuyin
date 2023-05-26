@@ -41,9 +41,11 @@
 </div>
 <br/>
 
+<div align="center">
 <img align="right" alt="visitcount" src="https://visitcount.itsvg.in/api?id=GuoZhuyin&icon=0&color=2">
 
 ---
+</div>
 
 # 📊 GitHub Stats
 
