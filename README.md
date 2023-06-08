@@ -2,7 +2,7 @@
 # 💫 About Me
 
 <div align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&center=true&vCenter=true&pause=1000&color=FC6D27&width=400&lines=Hi!+I'm+Kuo%2CChih-En+from+Taiwan.;+My+nickname+is+GuoZhuyin.;I+am+studying+at+Asia+University." alt="Typing SVG"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&center=true&vCenter=true&pause=1000&color=FC6D26&width=400&lines=Hi!+I'm+Kuo%2Chih-En+from+Taiwan.;+My+nickname+is+GuoZhuyin.;I+am+studying+at+Asia+University." alt="Typing SVG"></a>
 </div>
 <br/>
 
@@ -25,7 +25,7 @@
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height="50" style="margin: 3px"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="50" style="margin: 3px"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50" style="margin: 3px"/></a>
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50" style="margin: 3px"/></a>
 <a href="https://www.java.com" target="_blank"><img style="margin: 3px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 3px" src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="50" /></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="50" style="margin: 3px"/></a>
