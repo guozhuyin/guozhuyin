@@ -2,7 +2,7 @@
 # 💫 About Me
 
 <div align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&center=true&vCenter=true&pause=1000&color=FC6D26&width=400&lines=Hi!+I'm+Kuo%2Chih-En+from+Taiwan.;+My+nickname+is+GuoZhuyin.;I+am+studying+at+Asia+University." alt="Typing SVG"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&center=true&vCenter=true&pause=1000&color=FC6D26&width=400&lines=Hi!+I'm+Kuo%2CChih-En+from+Taiwan.;+My+nickname+is+GuoZhuyin.;I+am+studying+at+Asia+University." alt="Typing SVG"></a>
 </div>
 <br/>
 
