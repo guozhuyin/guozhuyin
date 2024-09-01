@@ -1,4 +1,7 @@
 <!-- ### Hi there 👋 -->
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+
 # 💫 About Me
 
 <div align = "center">
@@ -9,11 +12,10 @@
 ## 🌐 Socials
 
 <div align = "center">
-<a href="https://fb.com/100000318623573" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100000318623573" height="40" width="40" style="margin: 3px"/></a>
-<a href="https://instagram.com/zhuyin_010714" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zhuyin_010714" height="40" width="40" style="margin: 3px"/></a>
-<a href="http://zhuyin.epizy.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="40" style="margin: 3px"/></a>
-<a href="mailto:zhuyin124.work@aol.com"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Mail_fluent_Icon.svg" alt="mail" height="40" style="margin: 3px"/></a>
-
+<a href="https://fb.com/100000318623573" target="blank"><i class="fab fa-square-facebook fa-2xl"></i></a>
+<a href="https://instagram.com/zhuyin_010714" target="blank"><i class="fab fa-square-instagram fa-2xl"></i></a>
+<a href="http://zhuyin.epizy.com/" target="_blank"><i class="fab fa-wordpress-simple fa-2xl"></i></a>
+<a href="mailto:zhuyin124.work@aol.com"><i class="far fa-envelope fa-2xl"></i></a>
 </div>
 <br/>
 
